@@ -3,6 +3,7 @@ using Auth.Login.Application.Interfaces;
 using Auth.Login.Application.Services;
 using Auth.Login.Infrastructure.Persistence;
 using Auth.Login.Infrastructure.Repositories;
+using Auth.Login.Infrastructure.Seed;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
@@ -18,8 +19,9 @@ public static class ServiceCollectionExtensions
         services.AddSingleton<AuthDbContext>();
         services.AddScoped<IApplicationUserRepository, ApplicationUserRepository>();
         services.AddScoped<IAuthService, AuthService>();
+        services.AddScoped<AuthDataSeeder>();
 
-        var key = Encoding.UTF8.GetBytes(configuration["Jwt:Key"] ?? "AspireHr_SuperSecretKey_ChangeMe_123456789");
+        var key = Encoding.UTF8.GetBytes(configuration["Jwt:Key"] ?? "AspireHr_SuperSecretKey_ChangeMe_123456789012345");
         var issuer = configuration["Jwt:Issuer"] ?? "AspireHr.Auth";
         var audience = configuration["Jwt:Audience"] ?? "AspireHr.Client";
 

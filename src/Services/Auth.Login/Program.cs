@@ -1,4 +1,5 @@
 using Auth.Login.Extensions;
+using Auth.Login.Infrastructure.Seed;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,13 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+}
+
+// Seed data
+using (var scope = app.Services.CreateScope())
+{
+    var seeder = scope.ServiceProvider.GetRequiredService<AuthDataSeeder>();
+    await seeder.SeedAsync();
 }
 
 app.UseHttpsRedirection();
