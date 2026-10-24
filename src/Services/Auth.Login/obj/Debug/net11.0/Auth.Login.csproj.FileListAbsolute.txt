@@ -1,0 +1,14 @@
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\Auth.Login.csproj.AssemblyReference.cache
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.lib.module.js
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.js
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.Config.js
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\dotnet-watch\browser-tools-key.public.json
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\dotnet-watch\browser-tools-key.private.json
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\rpswa.dswa.cache.json
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\Auth.Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\Auth.Login.AssemblyInfoInputs.cache
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\Auth.Login.AssemblyInfo.cs
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\Auth.Login.csproj.CoreCompileInputs.cache
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\Auth.Login.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\Auth.Login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZEYNEP ÜZÜM\Desktop\hh1\OpenCode\AspireHr\src\Services\Auth.Login\obj\Debug\net11.0\Auth.Login.sourcelink.json
