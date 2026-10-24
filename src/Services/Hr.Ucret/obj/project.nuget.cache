@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fD0u/ZR5/Lc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZEYNEP ÜZÜM\\Desktop\\hh1\\OpenCode\\AspireHr\\src\\Services\\Hr.Ucret\\Hr.Ucret.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZEYNEP ÜZÜM\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0-rc.2.26504.105\\microsoft.aspnetcore.openapi.11.0.0-rc.2.26504.105.nupkg.sha512",
+    "C:\\Users\\ZEYNEP ÜZÜM\\.nuget\\packages\\microsoft.openapi\\3.10.2\\microsoft.openapi.3.10.2.nupkg.sha512"
+  ],
+  "logs": []
+}

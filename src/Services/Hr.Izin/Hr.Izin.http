@@ -1,0 +1,11 @@
+@Hr.Izin_HostAddress = http://localhost:5075
+
+GET {{Hr.Izin_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Hr.Izin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

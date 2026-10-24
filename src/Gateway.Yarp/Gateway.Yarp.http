@@ -1,0 +1,11 @@
+@Gateway.Yarp_HostAddress = http://localhost:5214
+
+GET {{Gateway.Yarp_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Gateway.Yarp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

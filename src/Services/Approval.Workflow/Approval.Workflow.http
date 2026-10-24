@@ -1,0 +1,11 @@
+@Approval.Workflow_HostAddress = http://localhost:5216
+
+GET {{Approval.Workflow_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Approval.Workflow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

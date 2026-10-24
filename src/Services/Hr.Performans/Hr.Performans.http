@@ -1,0 +1,11 @@
+@Hr.Performans_HostAddress = http://localhost:5148
+
+GET {{Hr.Performans_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Hr.Performans_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

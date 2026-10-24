@@ -1,0 +1,11 @@
+@Hr.Ucret_HostAddress = http://localhost:5100
+
+GET {{Hr.Ucret_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Hr.Ucret_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
